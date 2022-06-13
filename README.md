@@ -159,7 +159,7 @@ If you found it helpful, please cite the following paper:
 
 @InProceedings{Srirammtmfrl2020,
   title = 	 {Multi Type Mean Field Reinforcement Learning},
-  author = 	 {Ganapathi Subramanian, Sriram and Poupart, Pascal and Taylor, Matthew E. and Hegde, Nidhi}, 
+  author = 	 {Subramanian, Sriram Ganapathi and Poupart, Pascal and Taylor, Matthew E. and Hegde, Nidhi}, 
   booktitle = 	 {Proceedings of the Autonomous Agents and Multi Agent Systems (AAMAS 2020)},
   year = 	 {2020},
   address = 	 {Auckland, New Zealand},
